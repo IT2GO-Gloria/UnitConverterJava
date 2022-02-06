@@ -8,7 +8,7 @@
 
 ### Future phases of this app should:
 * Add color to background and text,
-* Add more conversions both ways,
+* Add the function of conversions both ways,
 * Add more conversions with both way conversion, and
 * Add history of the measurements.
 
